@@ -6,8 +6,8 @@ Note: In progress
 
 Once Grub is installed, run:
 
-'''
+```
 sudo grub-install
 sudo cp /boot/grub/x86_64-efi/grub.efi /boot/efi/EFI/pop/grubx64.efi
 grub-customizer
-'''
+```
